@@ -36,3 +36,5 @@
 ###后端逻辑控制：待定
 
 ###数据库：DBeaver+MySQL（可以会应用到Redis）
+
+###开发工具和语言：python+Pycharm
