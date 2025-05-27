@@ -31,6 +31,8 @@
 ###选题三：基于属性加密的云服务器安全系统：
 
 ##软件开发设计应用到的技术栈：
-###前端UI设计：Vue3+ElementPlus
+###前端UI设计：Vue3+ElementPlus（待定）
+
 ###后端逻辑控制：待定
+
 ###数据库：DBeaver+MySQL（可以会应用到Redis）
